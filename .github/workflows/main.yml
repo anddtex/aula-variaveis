@@ -1,0 +1,12 @@
+name: Como usar variaveis de ambiente
+
+on: 
+  workflow_dispatch:
+jobs:
+  env:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Execução
+        run: |
+          echo "valor de teste"
+      
