@@ -1,4 +1,4 @@
-# aula-variaveis
+# Aula-variaveis
 Repositorio do curso de DevOps PRO sobre variaveis de ambiente
 
 # GitHub Actions — Variáveis de Ambiente
